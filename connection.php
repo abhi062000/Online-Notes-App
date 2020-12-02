@@ -1,7 +1,7 @@
 <?php
 $hostname = "localhost";
 $user = "thesiteo";
-$password = "Abhishek@2018";
+$password = "******";
 $dbname = "thesiteo_onlinenotes";
 
 $link = mysqli_connect($hostname, $user, $password, $dbname);
