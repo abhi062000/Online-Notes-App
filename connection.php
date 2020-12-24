@@ -1,6 +1,6 @@
 <?php
 $hostname = "localhost";
-$user = "thesiteo";
+$user = "********";
 $password = "******";
 $dbname = "thesiteo_onlinenotes";
 
