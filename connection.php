@@ -1,8 +1,8 @@
 <?php
 $hostname = "localhost";
-$user = "********";
-$password = "******";
-$dbname = "thesiteo_onlinenotes";
+$user = "root";
+$password = "";
+$dbname = "onlinenotes";
 
 $link = mysqli_connect($hostname, $user, $password, $dbname);
 if (mysqli_connect_error()) {
